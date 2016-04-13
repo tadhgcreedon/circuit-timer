@@ -1,0 +1,24 @@
+{
+  "name": "circuit_timer",
+  "version": "1.0.0",
+  "description": "A timer app for scheduling circuits with multiple cycles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadhgcreedon/circuit-timer.git"
+  },
+  "author": "Tadhg Creedon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tadhgcreedon/circuit-timer/issues"
+  },
+  "homepage": "https://github.com/tadhgcreedon/circuit-timer#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
+}
